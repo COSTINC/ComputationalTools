@@ -1,2 +1,3 @@
-# ComputationalTools
-Database of computational tools developed by members of the International Nucleome Consortium
+# Computational Tools
+*Database of computational tools developed by members of the International Nucleome Consortium*
+
