@@ -17,4 +17,3 @@ This summary table enumerates (non-exhaustively) the tasks performed by the diff
 | :---------: | :----: |:----: |:----: |:----: |:----: |:----: |:----: |
 | IC-Finder  |   | X | | | | | |
 | 3DEpiBloc |  |  | | | | X| |
-
