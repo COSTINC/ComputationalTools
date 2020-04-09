@@ -9,7 +9,7 @@ This summary table enumerates (non-exhaustively) the tasks performed by the diff
 - **Hi-C visualization**: functions to visualize Hi-C data 
 - **Image analysis**: functions to treat and analyse images or movies from microscopy
 - **Integrative 3D modeling**: top-down restructions of 3D genome conformations from 4D genomics data 
-- **Mechanistic polymer modeling**: bottom-up polymer models to predict 3D genome conformations based on specified mechanisms 
+- **Biophysical modeling**: bottom-up biophysical models to predict chromatin organization based on specified mechanisms 
 - **Statistical modeling**: statistical/AI models to predict contacts, TAD boundaries, structural motifs, etc. based on genomics data
 
 
