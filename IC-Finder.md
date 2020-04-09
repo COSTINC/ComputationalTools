@@ -1,5 +1,4 @@
-# IC-Finder
-*Segmentations of HiC maps into hierarchical interaction compartments* 
+# IC-Finder: *Segmentations of HiC maps into hierarchical interaction compartments* 
 
 external link: https://github.com/bcm-uga/IC-Finder
 
