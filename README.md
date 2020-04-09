@@ -16,5 +16,5 @@ This summary table enumerates (non-exhaustively) the tasks performed by the diff
 |   | Hi-C generation | Hi-C analysis | Hi-C visualization | Image analysis | Integrative 3D modeling | Mechanistic polymer modeling | Statistical modeling |
 | :---------: | :----: |:----: |:----: |:----: |:----: |:----: |:----: |
 | IC-Finder  |   | X | | | | | |
-| LatticePoly 
+| 3DEpiBloc |  |  | | | | X| |
 
