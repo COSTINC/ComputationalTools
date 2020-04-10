@@ -1,7 +1,7 @@
 # 3DEpiBlock: *Simulations of 3D epigenome folding*
 
 
-external link: 
+external link: https://github.com/physical-biology-of-chromatin/3DEpiBlock
 
 developed by D. Jost
 
