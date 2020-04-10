@@ -3,7 +3,7 @@
 
 external link: https://github.com/physical-biology-of-chromatin/3DEpiBlock
 
-developed by D. Jost
+developed by D. Jost, Jost Lab, LBMC, ENS de Lyon/CNRS
 
 ## Description
 
