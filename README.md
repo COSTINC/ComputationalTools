@@ -20,6 +20,7 @@ This summary table enumerates (non-exhaustively) the tasks performed by the diff
 | Chrom3D |  |  | | |X | | |
 |FAN-C | X | X |X | | | | |
 | IC-Finder  |   | X | | | | | |
+| IMGR  |   |  | | X| X| | |
 | TADbit | X | X |X | | X| | |
 | TADdyn |  |  | | | X| | |
 | TADkit |  |  |X | | | | |
