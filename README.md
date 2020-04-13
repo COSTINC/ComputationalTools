@@ -20,3 +20,5 @@ This summary table enumerates (non-exhaustively) the tasks performed by the diff
 |FAN-C | X | X |X | | | | |
 | IC-Finder  |   | X | | | | | |
 | TADbit | X | X |X | | X| | |
+| TADkit |  |  |X | | | | |
+
