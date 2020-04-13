@@ -1,4 +1,4 @@
-# TADdyn: *dynamically simluting time-series Hi-C-based 3Dmodels*
+# TADdyn: *dynamically simulating time-series Hi-C-based 3Dmodels*
 
 external link: https://github.com/3DGenomes/TADdyn
 
