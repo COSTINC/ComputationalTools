@@ -16,6 +16,7 @@ This summary table enumerates (non-exhaustively) the tasks performed by the diff
 |   | Hi-C generation | Hi-C analysis | Hi-C visualization | Image analysis | Integrative 3D modeling | Biophysical modeling | Statistical modeling |
 | :---------: | :----: |:----: |:----: |:----: |:----: |:----: |:----: |
 | 3DEpiBlock |  |  | | | | X| |
+| Chrom3D |  |  | | |X | | |
 |FAN-C | X | X |X | | | | |
 | IC-Finder  |   | X | | | | | |
 | TADbit | X | X |X | | X| | |
