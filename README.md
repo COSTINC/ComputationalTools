@@ -4,7 +4,7 @@
 This repository lists the computational tools developed by COST INC (http://inc-cost.eu/) members for data analysis and modeling in the context of 4D Genomics.
 
 This summary table enumerates (non-exhaustively) the tasks performed by the different tools:
-- **Hi-C generation**: functions to treat Hi-C raw data to generate Hi-C matrices 
+- **Hi-C generation**: functions to treat Hi-C raw data to generate Hi-C matrices or to import already processed Hi-C data 
 - **Hi-C analysis**: functions to analyze Hi-C data to infer/compare compartments, TADs, structural motifs, etc. 
 - **Hi-C visualization**: functions to visualize Hi-C data 
 - **Image analysis**: functions to treat and analyse images or movies from microscopy 
@@ -19,6 +19,7 @@ This summary table enumerates (non-exhaustively) the tasks performed by the diff
 | Binless |  | X |X | | | | |
 | Chrom3D |  |  | | |X | | |
 |FAN-C | X | X |X | | | | |
+|HiCBricks| X | X | X | | | | |
 | IC-Finder  |   | X | | | | | |
 | IMGR  |   |  | | X| X| | |
 | TADbit | X | X |X | | X| | |
