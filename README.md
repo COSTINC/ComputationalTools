@@ -18,6 +18,7 @@ This summary table enumerates (non-exhaustively) the tasks performed by the diff
 | 3DEpiBlock |  |  | | | | X| |
 | Binless |  | X |X | | | | |
 | Chrom3D |  |  | | |X | | |
+|ChromFold| |  | | | | X| |
 |FAN-C | X | X |X | | | | |
 |HiCBricks| X | X | X | | | | |
 | IC-Finder  |   | X | | | | | |
