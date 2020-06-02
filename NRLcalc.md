@@ -1,9 +1,9 @@
 # NRLcalc: *calculation of the Nucleosome Repeat Length*
 
 
-external link: https://github.com/chrisclarkson/NRLcalc
+External link: https://github.com/chrisclarkson/NRLcalc
 
-developed by Christopher Clarkson
+Developed by Christopher Clarkson
 
 ## Description
 
