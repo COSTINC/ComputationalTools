@@ -23,7 +23,10 @@ This summary table enumerates (non-exhaustively) the tasks performed by the diff
 |HiCBricks| X | X | X | | | | |
 | IC-Finder  |   | X | | | | | |
 | IMGR  |   |  | | X| X| | |
+|NRLcalc | |  | |  |  | X | X |
+| NucTools |   |  | |  |  | | X |
 | TADbit | X | X |X | | X| | |
 | TADdyn |  |  | | | X| | |
 | TADkit |  |  |X | | | | |
 | TADpole |  | X | | | | | |
+| TFaffinity | |  | |  |  | X | |
