@@ -12,21 +12,20 @@ This summary table enumerates (non-exhaustively) the tasks performed by the diff
 - **Biophysical modeling**: bottom-up biophysical/polymer/mechanistic models to predict chromatin organization based on specified mechanisms 
 - **Statistical modeling**: statistical/AI models to predict contacts, TAD boundaries, structural motifs, etc. based on genomics data
 
-
 |   | Hi-C generation | Hi-C analysis | Hi-C visualization | Image analysis | Integrative 3D modeling | Biophysical modeling | Statistical modeling |
 | :---------: | :----: |:----: |:----: |:----: |:----: |:----: |:----: |
-| 3DEpiBlock |  |  | | | | X| |
-| Binless |  | X |X | | | | |
-| Chrom3D |  |  | | |X | | |
-|ChromFold| |  | | | | X| |
+| [3DEpiBlock](3DEpiBlock.md) |  |  | | | | X| |
+| [Binless](Binless.md) |  | X |X | | | | |
+| [Chrom3D](Chrom3D.md) |  |  | | |X | | |
+|[ChromFold](ChromFold.md)| |  | | | | X| |
 |FAN-C | X | X |X | | | | |
-|HiCBricks| X | X | X | | | | |
-| IC-Finder  |   | X | | | | | |
-| IMGR  |   |  | | X| X| | |
-|NRLcalc | |  | |  |  | X | X |
-| NucTools |   |  | |  |  | | X |
-| TADbit | X | X |X | | X| | |
-| TADdyn |  |  | | | X| | |
-| TADkit |  |  |X | | | | |
-| TADpole |  | X | | | | | |
-| TFaffinity | |  | |  |  | X | |
+|[HiCBricks](HiCBricks.md)| X | X | X | | | | |
+| [IC-Finder](ICFinder.md)  |   | X | | | | | |
+| [IMGR](IMGR.md)  |   |  | | X| X| | |
+|[NRLcalc](NRLcalc.md) | |  | |  |  | X | X |
+| [NucTools](NucTools.md) |   |  | |  |  | | X |
+| [TADbit](TADbit.md) | X | X |X | | X| | |
+| [TADdyn](TADdyn.md) |  |  | | | X| | |
+| [TADkit](TADkit.md) |  |  |X | | | | |
+| [TADpole](TADpole.md) |  | X | | | | | |
+| [TFaffinity](TFaffinity.md) | |  | |  |  | X | |
