@@ -3,7 +3,7 @@
 
 External link: https://github.com/chrisclarkson/NRLcalc
 
-Developed by Christopher Clarkson
+Developed by Christopher Clarkson in the [Teif lab] (https://generegulation.org)
 
 ## Description
 
