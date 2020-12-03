@@ -14,7 +14,7 @@ This summary table enumerates (non-exhaustively) the tasks performed by the diff
 - **Statistical modeling**: statistical/AI models to predict contacts, TAD boundaries, structural motifs, etc. based on genomics data
 
 |   | Hi-C generation | Hi-C analysis | Hi-C visualization | Image analysis | Nucleosome Analysis | Integrative 3D modeling | Biophysical modeling | Statistical modeling |
-| :---------: | :----: |:----: |:----: |:----: |:----: |:----: |:----: |
+| :---------: | :----: |:----: |:----: |:----: |:----:  |:----: |:----: |:----: |
 | [3DEpiBlock](3DEpiBlock.md) |  |  |  |  | | | X| |
 | [3DPredictor](3DPredictor.md) |  |  |  |  | | | |X |
 | [Binless](Binless.md) |  | X |X |  |  | | | |
