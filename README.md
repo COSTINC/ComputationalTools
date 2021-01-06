@@ -20,7 +20,7 @@ This summary table enumerates (non-exhaustively) the tasks performed by the diff
 | [Binless](Binless.md) |  | X |X |  |  | | | |
 | [Chrom3D](Chrom3D.md) |  |  | | |  |X | | |
 |[ChromFold](ChromFold.md)| |  | |  | | | X| |
-|ChromHL|  |  |  |  | | | X| |
+|[ChromHL](ChromHL.md)|  |  |  |  | | | X| |
 |[CHESS](CHESS.md)| | X | | |  | | | |
 |[C-InterSecture](C-InterSecture.md)|  |X |X| |  | | | |
 |[FAN-C](FAN-C.md) | X | X |X | | | | | |
