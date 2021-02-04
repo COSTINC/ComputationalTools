@@ -23,6 +23,7 @@ This summary table enumerates (non-exhaustively) the tasks performed by the diff
 |[ChromHL](ChromHL.md)|  |  |  |  | | | X| |
 |[CHESS](CHESS.md)| | X | | |  | | | |
 |[CHiCAGO](CHiCAGO.md)| |X|X| | | | | |
+|[Chicdiff](Chicdiff.md)| |X|X| | | | | |
 |[C-InterSecture](C-InterSecture.md)|  |X |X| |  | | | |
 |[FAN-C](FAN-C.md) | X | X |X | | | | | |
 |[GENOVA](GENOVA.md)| |X|X| | | | | |
