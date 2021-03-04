@@ -1,4 +1,4 @@
-# HIPPS-DIMES: * Hi-C-Polymer-Physics-Structures  *
+# HIPPS-DIMES: *Hi-C-Polymer-Physics-Structures*
 
 external link: https://github.com/anyuzx/HIPPS-DIMES
 
