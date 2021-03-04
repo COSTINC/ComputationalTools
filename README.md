@@ -27,7 +27,7 @@ This summary table enumerates (non-exhaustively) the tasks performed by the diff
 |[C-InterSecture](C-InterSecture.md)|  |X |X| |  | | | |
 |[FAN-C](FAN-C.md) | X | X |X | | | | | |
 |[GENOVA](GENOVA.md)| |X|X| | | | | |
-|[HIPPS-DIMES](HIPPS.md)|  |  | | |  |X | | |
+|[HIPPS](HIPPS.md)|  |  | | |  |X | | |
 |[HiCBricks](HiCBricks.md)| X | X | X | | |  | | |
 | [IC-Finder](IC-Finder.md)  |   | X |  | | | | | |
 | [IMGR](IMGR.md)  |   |  | | X| |  X| | |
