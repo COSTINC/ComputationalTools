@@ -1,7 +1,7 @@
 # Computational Tools
 *Database of computational tools developed by members of the International Nucleome Consortium*
 
-This repository lists the computational tools developed by COST INC (http://inc-cost.eu/) members for data analysis and modeling in the context of 4D Genomics.
+This repository lists the computational tools developed by COST INC (http://inc-cost.eu/) members for data analysis and modeling in the context of 4D Genomics. To add your own tool to the database, fill the form https://forms.gle/DF62urBw5UAqgPkT9.
 
 This summary table enumerates (non-exhaustively) the tasks performed by the different tools:
 - **Hi-C generation**: functions to treat Hi-C raw data to generate Hi-C matrices or to import already processed Hi-C data 
