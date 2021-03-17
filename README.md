@@ -25,6 +25,7 @@ This summary table enumerates (non-exhaustively) the tasks performed by the diff
 |[CHiCAGO](CHiCAGO.md)| |X|X| | | | | |
 |[Chicdiff](Chicdiff.md)| |X|X| | | | | |
 |[C-InterSecture](C-InterSecture.md)|  |X |X| |  | | | |
+|[essHi-C](essHi-C.md)|  | X | X | |  | | | |
 |[FAN-C](FAN-C.md) | X | X |X | | | | | |
 |[GENOVA](GENOVA.md)| |X|X| | | | | |
 |[HIPPS](HIPPS.md)|  |  | | |  |X | | |
