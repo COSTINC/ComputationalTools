@@ -34,6 +34,7 @@ This summary table enumerates (non-exhaustively) the tasks performed by the diff
 | [IMGR](IMGR.md)  |   |  | | X| |  X| | |
 |[NRLcalc](NRLcalc.md) | |  | | |  |  | X | X |
 | [NucTools](NucTools.md) |   |  | | |X |  | |  |
+| [PHiC](PHiC.md) |   |  | | | |  |X |  |
 | [ShRec3D](ShRec3D.md) |   |  | | || X | |  |
 | [TADbit](TADbit.md) | X | X |X | | | X| | |
 | [TADdyn](TADdyn.md) |  | | | | | X| | |
