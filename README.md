@@ -15,6 +15,7 @@ This summary table enumerates (non-exhaustively) the tasks performed by the diff
 
 |   | Hi-C generation | Hi-C analysis | Hi-C visualization | Image analysis | (Epi)genomic Analysis | Integrative 3D modeling | Biophysical modeling | Statistical modeling |
 | :---------: | :----: |:----: |:----: |:----: |:----:  |:----: |:----: |:----: |
+| [3DGenBench](3DGenBench.md) |  |  |  |  | |X | X|X |
 | [3DPolyS-Epi](3DPolyS-Epi.md) |  |  |  |  | | | X| |
 | [3DPolyS-LE](3DPolyS-LE.md) |  |  |  |  | | | X| |
 | [3DPredictor](3DPredictor.md) |  |  |  |  | | | |X |
