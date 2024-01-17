@@ -23,6 +23,7 @@ This summary table enumerates (non-exhaustively) the tasks performed by the diff
 | [Chrom3D](Chrom3D.md) |  |  | | |  |X | | |
 |[ChromFold](ChromFold.md)| |  | |  | | | X| |
 |[ChromHL](ChromHL.md)|  |  |  |  | | | X| |
+|[CharRM](ChaRM.md)| X |  |  |  | | | | X|
 |[CHESS](CHESS.md)| | X | | |  | | | |
 |[CHiCAGO](CHiCAGO.md)| |X|X| | | | | |
 |[Chicdiff](Chicdiff.md)| |X|X| | | | | |
